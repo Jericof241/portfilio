@@ -1,9 +1,9 @@
 # IT
 
 ### Education
-Odelc
-San Bartolome
-Our Lady of Fatima
+-Tertiary : Quezon City University 
+            Quirino Highway, San Bartolome, Novaliches, Quezon City
+
 
 ### Work Exp
 Gas @ Honda
