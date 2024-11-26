@@ -1,9 +1,9 @@
 # IT
 
 ### Education
--Tertiary : Quezon City University 
+### -Secondary : Quezon City University 
             Quirino Highway, San Bartolome, Novaliches, Quezon City
-
+-Secondary : 
 
 ### Work Exp
 Gas @ Honda
