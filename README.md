@@ -1,8 +1,9 @@
 # IT
 
-### Education
-### -Secondary : Quezon City University 
-            Quirino Highway, San Bartolome, Novaliches, Quezon City
+# Education
+**Secondary** - **Quezon City University**
+
+           
 -Secondary : 
 
 ### Work Exp
