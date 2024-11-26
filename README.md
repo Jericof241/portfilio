@@ -4,7 +4,7 @@
  - Bachelor of Science in Information Technology
    
 
-## **Senior High School** - #### Our Lady of Fatima (2020 - 2022) ####
+## **Senior High School** - Our Lady of Fatima (2020 - 2022) 
  - Science, Technology, Engineering, and Mathematics(STEM) Strand
    
 
