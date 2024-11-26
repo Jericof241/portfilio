@@ -1,6 +1,6 @@
 # Education
 
-## **College**##- Quezon City University (2022 - Present)
+## **College##**- Quezon City University (2022 - Present)
  - Bachelor of Science in Information Technology
    
 
