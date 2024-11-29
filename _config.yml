@@ -1,5 +1,5 @@
 title: [My Portfolio]
-logo: /assets/images/eco.png
+logo: /eco/images/eco.png
 #description: text below images 
 show downloads: false
 theme: jekyll-theme-minimal
