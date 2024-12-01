@@ -18,7 +18,7 @@ San Bartolome High School (2016 - 2020)
 
 
 # Project
-**Project 1: [Hotel Management System](https://ma.com/proto/54EzdEs1B7SHw9z8bBPIqj/IS-%7C-PF-SMDC-SYSTEM?node-id=1-2&node-typ)**
+**Project 1: [Hotel Management System](https://www.youtube.com/watch?v=D9CLhQdLp8w))**
 - **Overview:** A hotel management system developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
   
 **Project 2: Loan Release System**
