@@ -19,12 +19,10 @@ San Bartolome High School (2016 - 2020)
 
 # Project
 **Project 1: Hotel Management System**
-- **Overview:** A hotel management system developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
+- **Overview:** A [hotel management system](ma.com/proto/54EzdEs1B7SHw9z8bBPIqj/IS-%7C-PF-SMDC-SYSTEM?node-id=1-2&node-typ) developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
   
 **Project 2: Loan Release System**
 - **Overview:** 
-
-**Project 3:**
 
 
 
@@ -40,21 +38,8 @@ San Bartolome High School (2016 - 2020)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Skills
- - **Learning/Adaptability skills**
- - **Computer Profiency (MS Office)**
+# Profile
+- **Address :** 209 P. Dela Cruz, Novaliches, Quezon City
+- **Phone number** : 0951-860-5411
+- **Email Address** :jericof241@gmail.com
 
