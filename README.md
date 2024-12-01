@@ -18,13 +18,13 @@ San Bartolome High School (2016 - 2020)
 
 
 # Project
-Project 1: Hotel Management System
-- Overview: A hotel management system developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
+**Project 1: Hotel Management System**
+- **Overview:** A hotel management system developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
   
-Project 2: Loan Release System
-- Overview: 
+**Project 2: Loan Release System**
+- **Overview:** 
 
-Project 3: 
+**Project 3:**
 
 
 
