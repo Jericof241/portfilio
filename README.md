@@ -1,20 +1,12 @@
 # Objective
-Aspiring interface designer passionate about creating intuitive and visually engaging user interfaces while enhancing design and technical skills
-
+Motivated software developer seeking to apply programming skills in a collaborative environment, with a strong desire to grow professionally and contribute to the success of software development projects.
 
 # Education
-
-### **College**  
-Quezon City University (2022 - Present) | Bachelor of Science in Information Technology
+### **College**  Quezon City University (2022 - Present) | Bachelor of Science in Information Technology
    
-
-### **Senior High School** 
-Our Lady of Fatima (2020 - 2022) | Science, Technology, Engineering, and Mathematics(STEM) Strand
+### **Senior High School** Our Lady of Fatima (2020 - 2022) | Science, Technology, Engineering, and Mathematics(STEM) Strand
    
-
-### **Junior High School** 
-San Bartolome High School (2016 - 2020)
-
+### **Junior High School** San Bartolome High School (2016 - 2020)
 
 
 # Project
@@ -25,18 +17,17 @@ San Bartolome High School (2016 - 2020)
 - **Overview:** A loan release system developed using Java and Oracle to simplify the loan approval and distribution process.
 
 
-
-
 # Skills
  **Soft Skills**
 - Skilled at maintaining focus and delivering results under tight deadlines and high-pressure situations.
 - Capable of prioritizing tasks efficiently, optimizing time and resource allocation to maximize productivity.
 - Highly motivated professional with a strong determination to succeed and achieve outstanding results.
 
-
-
-
-
+**Technical Skills**
+- Familiar with ASP.NET web development and knowledgeable in C# programming.
+- Basic knowledge of web development concepts, including HTML, CSS, and JavaScript.
+- Experienced in using Microsoft Office Suite (Word, Excel, PowerPoint).
+- Basic knowledge of database management systems, such as MySQL and Oracle.
 
 # Profile
 - **Address :** 209 P. Dela Cruz, Novaliches, Quezon City
