@@ -2,11 +2,14 @@
 Motivated software developer seeking to apply programming skills in a collaborative environment, with a strong desire to grow professionally and contribute to the success of software development projects.
 
 # Education
-### **College**###  Quezon City University (2022 - Present) | Bachelor of Science in Information Technology
+### **College** 
+- Quezon City University (2022 - Present) | Bachelor of Science in Information Technology
    
-### **Senior High School** Our Lady of Fatima (2020 - 2022) | Science, Technology, Engineering, and Mathematics(STEM) Strand
+### **Senior High School** 
+- Our Lady of Fatima (2020 - 2022) | Science, Technology, Engineering, and Mathematics(STEM) Strand
    
-### **Junior High School** San Bartolome High School (2016 - 2020)
+### **Junior High School** 
+- San Bartolome High School (2016 - 2020)
 
 
 # Project
