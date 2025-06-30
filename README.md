@@ -1,15 +1,10 @@
 # Objective
-Motivated software developer seeking to apply programming skills in a collaborative environment, with a strong desire to grow professionally and contribute to the success of software development projects.
+Motivated BSIT student seeking internship opportunities to apply and enhance technical skills. Knowledgeable in UI/UX design and database management using MySQL and Oracle, with familiarity in Arduino-based systems and web technologies like Java, PHP, and ASP.NET. Dedicated to continuous learning and growth, with a strong interest in building user-centered and efficient digital solutions. Highly adaptable and collaborative, with a strong drive to contribute to real-world projects and gain valuable industry experience.
 
 # Education
-### **College** 
-Quezon City University (2022 - Present) | Bachelor of Science in Information Technology
+## **Quezon City University (2022 - Present) | Bachelor of Science in Information Technology**
    
-### **Senior High School** 
-Our Lady of Fatima (2020 - 2022) | Science, Technology, Engineering, and Mathematics(STEM) Strand
-   
-### **Junior High School** 
-San Bartolome High School (2016 - 2020)
+
 
 
 # Project
@@ -25,12 +20,17 @@ San Bartolome High School (2016 - 2020)
 - Skilled at maintaining focus and delivering results under tight deadlines and high-pressure situations.
 - Capable of prioritizing tasks efficiently, optimizing time and resource allocation to maximize productivity.
 - Highly motivated professional with a strong determination to succeed and achieve outstanding results.
+- Easily adapts communication and collaboration styles to connect effectively with individuals from diverse backgrounds and roles.
+
 
 **Technical Skills**
-- Familiar with ASP.NET web development and knowledgeable in C# programming.
-- Basic knowledge of web development concepts, including HTML, CSS, and JavaScript.
+- Basic knowledge of web development concepts, including HTML and CSS.
 - Experienced in using Microsoft Office Suite (Word, Excel, PowerPoint).
 - Basic knowledge of database management systems, such as MySQL and Oracle.
+- Familiarity with ASP.NET web development and VB.NET programming.
+- Basic knowledge of Arduino microcontroller programming and prototyping
+- Familiarity with designing user interfaces and creating prototypes using the Figma platform, showcasing foundational technical design skills.
+
 
 # Profile
 - **Address :** 209 P. Dela Cruz, Novaliches, Quezon City
