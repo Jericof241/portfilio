@@ -2,7 +2,7 @@
 Motivated BSIT student seeking internship opportunities to apply and enhance technical skills. Knowledgeable in UI/UX design and database management using MySQL and Oracle, with familiarity in Arduino-based systems and web technologies like Java, PHP, and ASP.NET. Dedicated to continuous learning and growth, with a strong interest in building user-centered and efficient digital solutions. Highly adaptable and collaborative, with a strong drive to contribute to real-world projects and gain valuable industry experience.
 
 # Education
-- **Quezon City University (2022 - Present)** | Bachelor of Science in Information Technology**
+- **Quezon City University (2022 - Present)** | Bachelor of Science in Information Technology
    
 
 
