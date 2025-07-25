@@ -33,6 +33,7 @@ Motivated BSIT student seeking internship opportunities to apply and enhance tec
 
 **Technical Skills**
 - Basic knowledge of web development concepts, including HTML and CSS.
+- Familiar with Selenium IDE for automating web application testing through record-and-playback.
 - Experienced in using Microsoft Office Suite (Word, Excel, PowerPoint).
 - Basic knowledge of database management systems, such as MySQL and Oracle.
 - Familiarity with ASP.NET web development and VB.NET programming.
