@@ -1,5 +1,5 @@
 # Objective
-Information Technology student aspiring to become a UI/UX Designer while continuously improving in web development. Has experience creating website layouts, user interfaces, and digital designs using Figma, React, JavaScript, HTML, and CSS. Familiar with building and deploying websites using Git and GitHub. Basic knowledge in MySQL and XAMPP for backend and database setup. Fast learner, willing to be trained, and eager to gain real-world experience in design and development.
+Information Technology student pursuing a career in UI/UX design while expanding expertise in web development. Experienced in designing website layouts, user interfaces, and interactive digital experiences using Figma, React, JavaScript, HTML, and CSS. Familiar with version control and website deployment through Git and GitHub, with foundational knowledge of MySQL and XAMPP for database and backend configuration. A quick learner who is adaptable, eager to grow, and committed to gaining hands-on experience in UI/UX design and web development.
 
 # Education
 - **Quezon City University (2022 - 2026)** | Bachelor of Science in Information Technology
