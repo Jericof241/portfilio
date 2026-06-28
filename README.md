@@ -1,8 +1,8 @@
 # Objective
-Motivated BSIT student seeking internship opportunities to apply and enhance technical skills. Knowledgeable in UI/UX design and database management using MySQL and Oracle, with familiarity in Arduino-based systems and web technologies like Java, PHP, and ASP.NET. Dedicated to continuous learning and growth, with a strong interest in building user-centered and efficient digital solutions. Highly adaptable and collaborative, with a strong drive to contribute to real-world projects and gain valuable industry experience.
+Information Technology student aspiring to become a UI/UX Designer while continuously improving in web development. Has experience creating website layouts, user interfaces, and digital designs using Figma, React, JavaScript, HTML, and CSS. Familiar with building and deploying websites using Git and GitHub. Basic knowledge in MySQL and XAMPP for backend and database setup. Fast learner, willing to be trained, and eager to gain real-world experience in design and development.
 
 # Education
-- **Quezon City University (2022 - Present)** | Bachelor of Science in Information Technology
+- **Quezon City University (2022 - 2026)** | Bachelor of Science in Information Technology
    
 
 
@@ -20,6 +20,10 @@ Motivated BSIT student seeking internship opportunities to apply and enhance tec
 ## **[Library Management System](https://www.figma.com/proto/P1SRJ3ZXbAwMmrXtvkLlPN/SJB-LMS-PROTOTYPE?node-id=2311-833&p=f&t=dyZHJJF0oYCgTTw5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
 - **Overview:** Developed a Java Swing-based library management system utilizing MySQL.
 
+## **[SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](https://www.smartshield.it.com/)**
+- **Overview:** A phishing detector website using an ensemble model developed using NextJS, Supabase, and Python.
+
+
 
 
 
@@ -35,8 +39,7 @@ Motivated BSIT student seeking internship opportunities to apply and enhance tec
 - Basic knowledge of web development concepts, including HTML and CSS.
 - Familiar with Selenium IDE for automating web application testing through record-and-playback.
 - Experienced in using Microsoft Office Suite (Word, Excel, PowerPoint).
-- Basic knowledge of database management systems, such as MySQL and Oracle.
-- Familiarity with ASP.NET web development and VB.NET programming.
+- Basic knowledge of database management systems, such as MySQL.
 - Basic knowledge of Arduino microcontroller programming and prototyping
 - Familiarity with designing user interfaces and creating prototypes using the Figma platform, showcasing foundational technical design skills.
 
@@ -44,6 +47,7 @@ Motivated BSIT student seeking internship opportunities to apply and enhance tec
 # Certification
 - Navigating the Digital Frontier: Trends, Innovation, and Cybersecurity in the Modern IT Landscape (2023)
 - CyberSafety Seminar with RCQC MediaTech and MaraLabs (2025)
+- Cybersecurity in Education: Safeguarding Learners’ Data and Academic Integrity (2025)	
 
 
 # Profile
