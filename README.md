@@ -108,7 +108,7 @@ Position: ___UI/UX Designer___
 
 ___
 
-#### **Leandro Locsin Integrated School** (_Website_)
+#### ___ Leandro Locsin Integrated School___  (_Website_)
 __January 2025__
 
 ![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
@@ -123,8 +123,11 @@ Position: ___UI/UX Designer___
 
 ___
 
-![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](assets/SMART-SHIELD.png) (Webiste)
+#### ___SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing___  (_Website_)
 __March 2026__
+
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](assets/SMART-SHIELD.png)
+
 Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
@@ -135,8 +138,12 @@ Position: ___Head UI/UX Designer___Front-End Developer___
 
 ___
 
-![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Mobile)
+
+#### ___SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing___  (_Mobile_)
 __March 2026__
+
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing]
+
 Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
