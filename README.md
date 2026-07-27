@@ -1,58 +1,167 @@
-# Objective
-Information Technology student pursuing a career in UI/UX design while expanding expertise in web development. Experienced in designing website layouts, user interfaces, and interactive digital experiences using Figma, React, JavaScript, HTML, and CSS. Familiar with version control and website deployment through Git and GitHub, with foundational knowledge of MySQL and XAMPP for database and backend configuration. A quick learner who is adaptable, eager to grow, and committed to gaining hands-on experience in UI/UX design and web development.
+## INTRODUCTION
+### About Me
+
+> Hi! I'm Jerico R. Francisco, a passionate designer who enjoys creating user-friendly and visually appealing digital experiences. I love exploring new design tools and continuously improving my skills, whether I'm sketching ideas on paper or bringing them to life on my computer.
+
+> I'm a UI/UX designer and aspiring front-end developer passionate about creating intuitive, user-focused digital experiences. I combine creativity with technical skills to design clean interfaces and develop functional web solutions. With familiar in Java programming, Figma, and front-end technologies, I'm always eager to learn, collaborate, and grow while building impactful digital products.
 
 # Education
 - **Quezon City University (2022 - 2026)** | Bachelor of Science in Information Technology
    
+___
+
+## WORK EXPERIENCE
+
+**Concentrix Philippines - ETON ** 
+___(September 2025 – February 2026)___
 
 
+- Assisted in troubleshooting technical issues, managing support tickets, supporting daily IT operations, and resolving system-related issues with the IT team.
+- Strengthened my technical support, problem-solving, teamwork, and workplace communication skills through real- world IT operational experience.
 
-# Project
-## **[Hotel Management System](https://www.figma.com/proto/54EzdEs1B7SHw9z8bBPIqj/IS-%7C-PF-SMDC-SYSTEM?node-id=1-2&node-type=canvas&t=BQz1Dgpeb75xfSaN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
-- **Overview:** A hotel management system developed using PHP, JavaScript, and SQL to streamline hotel operations and enhance guest experience.
+
+___
+
+## CONTACT ME
+
+I'm always open to new opportunities, collaborations, and exciting projects. If you'd like to work together or discuss an idea, feel free to get in touch. I'd be happy to connect!
+
+__Socials__
+
+<a href="https://github.com/Jericof241">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/francisco-jerico-r-194227371/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Linkedin-web-vt.png?20230207115505" alt="Linkedin" width="40" height="40"/>
+</a>
+<a href="https://www.facebook.com/jerico.francisco.716">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/eco54__/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+</a>
+
+___
+
+__Mobile Number:__ +63 994 809 1421
+
+__Location:__ [209 P. Dela Crux St. San Bartolome, Novaliches, Quezon City. ](https://www.google.com/maps/place/209+Pablo+Dela+Cruz,+Novaliches,+Quezon+City,+Metro+Manila/@14.7078588,121.0302614,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b11fdd664a99:0x9b70d6c015800767!8m2!3d14.7078588!4d121.0328363!16s%2Fg%2F11g0h832d_?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D)
+
+__Email:__ *jericof241@gmail.com*
+
+___
+
+Looking forward to hearing from you!
+
+## PROJECTS
+
+### Project System
+
+#### ___Hotel Management System___
+__May 2023__
+
+![Hotel Management System]()
+
+Overview
+
+> Developed a Hotel Management System using PHP, JavaScript, and SQL to streamline hotel operations, manage reservations, and enhance the overall guest experience through an efficient and user-friendly interface.
+
+Programming Language: ___Java with XAMPP Database___
+
+Position: ___UI/UX Designer___
+
+
+#### ___Hotel Management System___
+__May 2023__
+
+___
+
+![Hotel Management System]()
+
+Overview
+
+> Developed a Hotel Management System using PHP, JavaScript, and SQL to streamline hotel operations, manage reservations, and enhance the overall guest experience through an efficient and user-friendly interface.
+
+Programming Language: ___Java with XAMPP Database___
+
+Position: ___UI/UX Designer
+
+___
+
+#### ___Loan Release System___ (_Desktop_)
+__Arpil 2024__
+
+![LOAN-RELEASE](assets/LOAN-RELEASE.png)
+
+Overview
   
-## **[Loan Release System](https://www.figma.com/proto/seld4vqP2rFCVR94XfmuwK/Loan-Release-System?node-id=4-2&node-type=canvas&t=rwYDF6nNNp8iK9Sg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1)**
-- **Overview:** A loan release system developed using Java and Oracle to simplify the loan approval and distribution process.
+  > A Loan Release System developed using Java and Oracle to simplify the loan application and approval process. The system provides intuitive dashboards for both applicants and administrators, allowing users to track application statuses, upload required documents, and manage payment schedules through a clean and user-friendly interface.
   
-## **[School Management System](https://www.figma.com/proto/OXLWwRWi7BZxQdFXcFIOBQ/Project?node-id=194-6&p=f&t=52XPGAZv95e3HrIr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
-- **Overview:** Developed a Java Swing application for School Management operations using Oracle and Azure Cloud Server. This system was created for Leandro Locsin Integrated School.
+Software Used: ___Figma___
 
-## **[Library Management System](https://www.figma.com/proto/P1SRJ3ZXbAwMmrXtvkLlPN/SJB-LMS-PROTOTYPE?node-id=2311-833&p=f&t=dyZHJJF0oYCgTTw5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
-- **Overview:** Developed a Java Swing-based library management system utilizing MySQL.
+Position: ___UI/UX Designer___
 
-## **[SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](https://www.smartshield.it.com/)**
-- **Overview:** A phishing detector website using an ensemble model developed using NextJS, Supabase, and Python.
+___
+
+#### ___Leandro Locsin Integrated School___ (_Desktop_)
+__February 2025__
+
+![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
+
+Overview
+
+   > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
+  
+Software Used: ___Figma___
+ 
+Position: ___UI/UX Designer___
+
+___
+
+#### **Leandro Locsin Integrated School** (_Website_)
+__January 2025__
+
+![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
+
+Overview
+
+  > The School Management System website provides a responsive platform for students, parents, and staff, featuring announcements, event calendars, and downloadable resources. Designed for ease of use, it promotes engagement and communication among all stakeholders in the school community.
+  
+Software Used: ___Figma___
+
+Position: ___UI/UX Designer___
+
+
+
+#### **Leandro Locsin Integrated School** (_Website_)
+__January 2025__
+
+___
+
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Desktop)
+
+Overview
+
+  > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
+  
+Software Used: ___Figma___Visual Studio___Postman___
+
+Position: ___UI/UX Designer___Front-End Developer___
+
+___
+
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Website)
+
+Overview
+
+  > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
+  
+Software Used: ___Figma___Visual Studio___Postman___
+
+Position: ___UI/UX Designer___Front-End Developer___
 
 
 
 
-
-# Skills
- **Soft Skills**
-- Skilled at maintaining focus and delivering results under tight deadlines and high-pressure situations.
-- Capable of prioritizing tasks efficiently, optimizing time and resource allocation to maximize productivity.
-- Highly motivated professional with a strong determination to succeed and achieve outstanding results.
-- Easily adapts communication and collaboration styles to connect effectively with individuals from diverse backgrounds and roles.
-
-
-**Technical Skills**
-- Basic knowledge of web development concepts, including HTML and CSS.
-- Familiar with Selenium IDE for automating web application testing through record-and-playback.
-- Experienced in using Microsoft Office Suite (Word, Excel, PowerPoint).
-- Basic knowledge of database management systems, such as MySQL.
-- Basic knowledge of Arduino microcontroller programming and prototyping
-- Familiarity with designing user interfaces and creating prototypes using the Figma platform, showcasing foundational technical design skills.
-
-
-# Certification
-- Navigating the Digital Frontier: Trends, Innovation, and Cybersecurity in the Modern IT Landscape (2023)
-- CyberSafety Seminar with RCQC MediaTech and MaraLabs (2025)
-- Cybersecurity in Education: Safeguarding Learners’ Data and Academic Integrity (2025)	
-
-
-# Profile
-- **Address :** 209 P. Dela Cruz, Novaliches, Quezon City
-- **Phone number** : 0994-809-1421
-- **Email Address** :jericof241@gmail.com
 
 
