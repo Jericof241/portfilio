@@ -17,9 +17,9 @@ ___
 ## PROFESSIONAL EXPERIENCE 
 
 **Concentrix Philippines - ETON** 
-*IT Technical Support Intern*
 ___(September 2025 – February 2026)___
 
+> IT Technical Support Intern
 
 - Assisted in troubleshooting technical issues, managing support tickets, supporting daily IT operations, and resolving system-related issues with the IT team.
 - Strengthened my technical support, problem-solving, teamwork, and workplace communication skills through real- world IT operational experience.
