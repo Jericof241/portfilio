@@ -132,7 +132,7 @@ Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
   
-Software Used: ___Figma___Visual Studio___Postman___
+Software Used: ___Figma___Visual Studio___
 
 Position: ___Head UI/UX Designer___Front-End Developer___
 
@@ -150,7 +150,7 @@ Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
   
-Software Used: ___Figma___Visual Studio___Postman___
+Software Used: ___Figma___Visual Studio___
 
 Position: ___Head UI/UX Designer___Front-End Developer___
 
