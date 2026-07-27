@@ -5,6 +5,8 @@
 
 > I'm a UI/UX designer and aspiring front-end developer passionate about creating intuitive, user-focused digital experiences. I combine creativity with technical skills to design clean interfaces and develop functional web solutions. With familiar in Java programming, Figma, and front-end technologies, I'm always eager to learn, collaborate, and grow while building impactful digital products.
 
+[Downloadable CV](https://drive.google.com/file/d/1VcphlQFeYaKWaYEEUE7bM1qDXrYIMy8z/view?usp=sharing)
+
 ___
 
 # Education
