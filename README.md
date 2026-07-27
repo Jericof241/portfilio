@@ -131,7 +131,7 @@ Overview
   
 Software Used: ___Figma___Visual Studio___Postman___
 
-Position: ___UI/UX Designer___Front-End Developer___
+Position: ___Head UI/UX Designer___Front-End Developer___
 
 ___
 
@@ -143,7 +143,7 @@ Overview
   
 Software Used: ___Figma___Visual Studio___Postman___
 
-Position: ___UI/UX Designer___Front-End Developer___
+Position: ___Head UI/UX Designer___Front-End Developer___
 
 
 
