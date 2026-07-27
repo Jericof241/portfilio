@@ -61,7 +61,7 @@ Looking forward to hearing from you!
 ___
 
 ## SKILLS
-> __Tools & Tech:__ Git & GitHub, XAMPP, Figma, Canva, Capcut.
+> __Tools & Tech:__ Git & GitHub, XAMPP, Figma, Canva, Capcut, Cypress.
 
 > __Web Development:__ JavaScript, HTML5, CSS3, React, Basic Java Programming.
 
