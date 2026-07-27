@@ -66,7 +66,7 @@ ___
 #### ___Hotel Management System___
 __May 2023__
 
-![Hotel Management System]()
+![Hotel Management System](assets/Hotel Management.png.png)
 
 Overview
 
@@ -124,7 +124,7 @@ Position: ___UI/UX Designer___
 ___
 
 ![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](assets/SMART-SHIELD.png) (Webiste)
-
+__March 2026__
 Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
@@ -136,7 +136,7 @@ Position: ___UI/UX Designer___Front-End Developer___
 ___
 
 ![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Mobile)
-
+__March 2026__
 Overview
 
   > Developed a phishing detection website using Next.js, Supabase, and Python, powered by an ensemble machine learning model to accurately identify and classify phishing URLs. The system enables users to analyze suspicious links in real time, helping improve cybersecurity awareness and protect against online threats through a fast, secure, and user-friendly interface.
