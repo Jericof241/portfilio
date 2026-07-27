@@ -5,7 +5,7 @@
 
 > I'm a UI/UX designer and aspiring front-end developer passionate about creating intuitive, user-focused digital experiences. I combine creativity with technical skills to design clean interfaces and develop functional web solutions. With familiar in Java programming, Figma, and front-end technologies, I'm always eager to learn, collaborate, and grow while building impactful digital products.
 
-[Downloadable CV](https://drive.google.com/file/d/1VcphlQFeYaKWaYEEUE7bM1qDXrYIMy8z/view?usp=sharing)
+[Downloadable CV](https://drive.google.com/file/d/1cfnYfDF7Q7nltuMBQEkrqNWfrP61Fxm8/view?usp=sharing)
 
 ___
 
@@ -59,6 +59,13 @@ Looking forward to hearing from you!
 
 ___
 
+## SKILLS
+> __Tools & Tech:__ Git & GitHub, XAMPP, Figma, Canva, Capcut.
+> __Web Development:__ JavaScript, HTML5, CSS3, React, Basic Java Programming.
+> __Core Competencies:__ Frontend Development, UI/UX Design, Responsive Web Design, Wireframing & Prototyping, Technical Support.
+
+___
+
 ## PROJECTS
 
 ### Project System
@@ -73,6 +80,21 @@ Overview
 > Developed a Hotel Management System using PHP, JavaScript, and SQL to streamline hotel operations, manage reservations, and enhance the overall guest experience through an efficient and user-friendly interface.
 
 Programming Language: ___Java with XAMPP Database___
+
+Position: ___UI/UX Designer___
+
+___
+
+#### ___Library Magement System___
+__October 2023__
+
+![Library Management System](assets/HOTEL-MANAGEMENT.png)
+
+Overview
+
+> A desktop-based Library Management System developed using Java Swing and MySQL to simplify library administration by managing book inventories, member records, and borrowing transactions in an organized and efficient manner.
+
+Programming Language: ___Java with MySQL___
 
 Position: ___UI/UX Designer___
 
