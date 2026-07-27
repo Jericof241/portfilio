@@ -61,6 +61,7 @@ ___
 
 ## SKILLS
 > __Tools & Tech:__ Git & GitHub, XAMPP, Figma, Canva, Capcut.
+
 > __Web Development:__ JavaScript, HTML5, CSS3, React, Basic Java Programming.
 > __Core Competencies:__ Frontend Development, UI/UX Design, Responsive Web Design, Wireframing & Prototyping, Technical Support.
 
