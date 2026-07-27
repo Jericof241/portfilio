@@ -5,6 +5,8 @@
 
 > I'm a UI/UX designer and aspiring front-end developer passionate about creating intuitive, user-focused digital experiences. I combine creativity with technical skills to design clean interfaces and develop functional web solutions. With familiar in Java programming, Figma, and front-end technologies, I'm always eager to learn, collaborate, and grow while building impactful digital products.
 
+___
+
 # Education
 - **Quezon City University (2022 - 2026)** | Bachelor of Science in Information Technology
    
@@ -12,7 +14,7 @@ ___
 
 ## WORK EXPERIENCE
 
-**Concentrix Philippines - ETON ** 
+**Concentrix Philippines - ETON** 
 ___(September 2025 – February 2026)___
 
 
@@ -53,6 +55,8 @@ ___
 
 Looking forward to hearing from you!
 
+___
+
 ## PROJECTS
 
 ### Project System
@@ -69,22 +73,6 @@ Overview
 Programming Language: ___Java with XAMPP Database___
 
 Position: ___UI/UX Designer___
-
-
-#### ___Hotel Management System___
-__May 2023__
-
-___
-
-![Hotel Management System]()
-
-Overview
-
-> Developed a Hotel Management System using PHP, JavaScript, and SQL to streamline hotel operations, manage reservations, and enhance the overall guest experience through an efficient and user-friendly interface.
-
-Programming Language: ___Java with XAMPP Database___
-
-Position: ___UI/UX Designer
 
 ___
 
@@ -131,14 +119,9 @@ Software Used: ___Figma___
 
 Position: ___UI/UX Designer___
 
-
-
-#### **Leandro Locsin Integrated School** (_Website_)
-__January 2025__
-
 ___
 
-![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Desktop)
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](assets/SMART-SHIELD.png) (Webiste)
 
 Overview
 
@@ -150,7 +133,7 @@ Position: ___UI/UX Designer___Front-End Developer___
 
 ___
 
-![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Website)
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing] (Mobile)
 
 Overview
 
