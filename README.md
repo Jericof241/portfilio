@@ -108,7 +108,7 @@ Position: ___UI/UX Designer___
 
 ___
 
-#### ___ Leandro Locsin Integrated School___  (_Website_)
+#### ___Leandro Locsin Integrated School___  (_Website_)
 __January 2025__
 
 ![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
@@ -136,13 +136,15 @@ Software Used: ___Figma___Visual Studio___Postman___
 
 Position: ___Head UI/UX Designer___Front-End Developer___
 
+[System Video Demonstration](https://drive.google.com/file/d/1m1KbUXHEqjSG8iqK_nCZxRX9DVBQucsf/view?usp=sharing)
+
 ___
 
 
 #### ___SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing___  (_Mobile_)
 __March 2026__
 
-![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing]
+![SMARTSHIELD: An AI-Powered Phishing Detector Website Using Ensemble Model for Safer Browsing](assets/MOBILE.png)
 
 Overview
 
@@ -152,6 +154,7 @@ Software Used: ___Figma___Visual Studio___Postman___
 
 Position: ___Head UI/UX Designer___Front-End Developer___
 
+[System Video Demonstration](https://drive.google.com/file/d/1m1KbUXHEqjSG8iqK_nCZxRX9DVBQucsf/view?usp=sharing)
 
 
 
