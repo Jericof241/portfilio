@@ -88,7 +88,7 @@ ___
 #### ___Library Magement System___
 __October 2023__
 
-![Library Management System](assets/HOTEL-MANAGEMENT.png)
+![Library Management System](assets/LIBRARY-MANAGEMENT.png)
 
 Overview
 
