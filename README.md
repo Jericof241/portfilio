@@ -14,9 +14,10 @@ ___
    
 ___
 
-## WORK EXPERIENCE
+## PROFESSIONAL EXPERIENCE 
 
 **Concentrix Philippines - ETON** 
+*IT Technical Support Intern*
 ___(September 2025 – February 2026)___
 
 
