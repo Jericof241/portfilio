@@ -66,7 +66,7 @@ ___
 #### ___Hotel Management System___
 __May 2023__
 
-![Hotel Management System](assets/Hotel Management.png.png)
+![Hotel Management System](assets/HOTEL-MANAGEMENT.png)
 
 Overview
 
